@@ -1,0 +1,10 @@
+cradle:
+  cabal:
+    - path: "app/Main.hs"
+      component: "ComposingContracts:exe:ComposingContracts"
+
+    - path: "app/DateUtils.hs"
+      component: "ComposingContracts:exe:ComposingContracts"
+
+    - path: "app/Contracts.hs"
+      component: "ComposingContracts:exe:ComposingContracts"
